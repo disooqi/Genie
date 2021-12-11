@@ -1,0 +1,13 @@
+pip install --upgrade pip
+pip install SpeechRecognition
+pip install pywhatkit
+pip install wikipedia
+pip install requests
+pip install python-decouple
+pip install opencv-python
+
+pip install gTTS
+pip install mpyg321
+pip install pexpect
+
+pip install pydub
